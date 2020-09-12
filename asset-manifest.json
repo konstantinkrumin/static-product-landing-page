@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static-product-landing-page/static/css/main.314bdaf0.chunk.css",
+    "main.js": "/static-product-landing-page/static/js/main.ff45d6a1.chunk.js",
+    "main.js.map": "/static-product-landing-page/static/js/main.ff45d6a1.chunk.js.map",
+    "runtime-main.js": "/static-product-landing-page/static/js/runtime-main.65b1f1eb.js",
+    "runtime-main.js.map": "/static-product-landing-page/static/js/runtime-main.65b1f1eb.js.map",
+    "static/js/2.fc15138c.chunk.js": "/static-product-landing-page/static/js/2.fc15138c.chunk.js",
+    "static/js/2.fc15138c.chunk.js.map": "/static-product-landing-page/static/js/2.fc15138c.chunk.js.map",
+    "index.html": "/static-product-landing-page/index.html",
+    "precache-manifest.e57609d98502e0621a8e0f7df242fcb8.js": "/static-product-landing-page/precache-manifest.e57609d98502e0621a8e0f7df242fcb8.js",
+    "service-worker.js": "/static-product-landing-page/service-worker.js",
+    "static/css/main.314bdaf0.chunk.css.map": "/static-product-landing-page/static/css/main.314bdaf0.chunk.css.map",
+    "static/js/2.fc15138c.chunk.js.LICENSE.txt": "/static-product-landing-page/static/js/2.fc15138c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65b1f1eb.js",
+    "static/js/2.fc15138c.chunk.js",
+    "static/css/main.314bdaf0.chunk.css",
+    "static/js/main.ff45d6a1.chunk.js"
+  ]
+}
