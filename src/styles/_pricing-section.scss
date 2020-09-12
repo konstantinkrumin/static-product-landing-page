@@ -1,0 +1,28 @@
+@import 'variables';
+
+/* PRICING SECTION */
+#pricing {
+  display: flex;
+  flex-direction: row;
+}
+
+#pricing-option-1,
+#pricing-option-2,
+#pricing-option-3 {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-color: $border-color;
+  border-radius: 25px;
+  padding: 25px;
+  margin: 10px;
+  width: 30%;
+  height: 600px;
+}
+
+.pricing-option-description { text-align: left; }
+
+.pricing-option-bulletpoints,
+#additional-info { text-align: left; }
+
+.select-option { margin-top: auto; }

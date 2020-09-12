@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap");
+@import 'variables';
+@import 'buttons';
+@import 'navbar';
+@import 'pricing-section';
+@import 'footer';
+@import 'additional-elements';
+@import 'media-queries';
+
+/* MAIN */
+body {
+  text-align: center;
+  padding-top: 40px;
+  font-family: $main-font;
+  background-color: $background-color;
+}
+
+main {
+  width: 75%;
+  margin: 0 auto;
+}
+
+
+
+

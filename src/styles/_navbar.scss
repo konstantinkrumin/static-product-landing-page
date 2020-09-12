@@ -1,0 +1,40 @@
+@import 'variables';
+
+/* NAVBAR */
+#nav-container {
+  background-color: $background-color;
+  opacity: 0.8;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#img-container {
+  width: 50%;
+  text-align: left;
+}
+
+#header-img {
+  width: 150px;
+  height: 50px;
+}
+
+#nav-bar {
+  font-size: 1.5em;
+  width: 50%;
+  text-align: right;
+}
+
+.nav-link {
+  margin: 40px;
+  text-decoration: none;
+  color: $accent-color-dark;
+  transition: color 250ms;
+
+  &:hover, &:focus {
+    color: $accent-color-light;
+  }
+}
